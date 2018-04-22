@@ -9,7 +9,7 @@
 - Custom Styling
 - Airtable
 
-![screenshot](./images/restaurant1.gif?raw=true)
+![screenshot](./images/restaurantScreenShot1.png?raw=true)
 
 
 ## Functionality 1
