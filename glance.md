@@ -15,9 +15,10 @@ Coordination platform for meetups and appointments by seeing other users’ loca
 - Custom Styling
 - Node/Express
 - PostgresQL
+
 <img src="./images/glanceScreenShot2.png" width="200">
-![screenshot](./images/glanceScreenShot2.png =100x20)
-![screenshot](./images/glanceScreenShot1.png?raw=true)
-![screenshot](./images/glanceScreenShot3.png?raw=true)
+<img src="./images/glanceScreenShot1.png" width="200">
+<img src="./images/glanceScreenShot3.png" width="200">
+
 
 
