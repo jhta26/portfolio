@@ -16,7 +16,7 @@ Coordination platform for meetups and appointments by seeing other users’ loca
 - Node/Express
 - PostgresQL
 
-![screenshot](./images/glanceScreenShot2.png= 100x20?raw=true)
+![screenshot](./images/glanceScreenShot2.png= 100x20)
 ![screenshot](./images/glanceScreenShot1.png?raw=true)
 ![screenshot](./images/glanceScreenShot3.png?raw=true)
 
