@@ -19,6 +19,8 @@ Coordination platform for meetups and appointments by seeing other users’ loca
 <img src="./images/glanceScreenShot2.png" width="200"><img src="./images/glanceScreenShot1.png" width="200">
 <img src="./images/glanceScreenShot3.png" width="200">
 
+![screenshot](./images/glance1.gif?raw=true)
+
 
 
 
