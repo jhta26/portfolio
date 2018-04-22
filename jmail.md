@@ -12,11 +12,15 @@ Web-based email client streamlined for efficient sending and reading of messages
 - Airtable
 
 
-## Mark emails as read/unread and apply labels
+## Mark Emails as Read/Unread and Apply Labels
 
 ![screenshot](./images/inbox1.gif?raw=true)
 
-## Compose and send emails
+## Compose and Send Emails
 
 ![screenshot](./images/inbox2.gif?raw=true)
+
+## Star/Unstar Emails
+
+![screenshot](./images/inbox3.gif?raw=true)
 
