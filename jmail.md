@@ -16,3 +16,7 @@ Web-based email client streamlined for efficient sending and reading of messages
 
 ![screenshot](./images/inbox1.gif?raw=true)
 
+## Compose and send emails
+
+![screenshot](./images/inbox2.gif?raw=true)
+
