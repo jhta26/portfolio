@@ -1,6 +1,6 @@
 # Jason's Restaurant
 
-
+Responsive and dynamic restaurant ordering page
 
 ## Technologies Used
 - React.Js
