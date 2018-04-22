@@ -12,9 +12,15 @@
 ![screenshot](./images/restaurantScreenShot1.png?raw=true)
 
 
-## Functionality 1
-Add items to your order and checkout.
+## Add items to your order and checkout
+
 ![screenshot](./images/restaurant1.gif?raw=true)
+
+## Form Validation
+
+![screenshot](./images/restaurant2.gif?raw=true)
+
+
 
 
 
