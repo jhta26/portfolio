@@ -19,7 +19,15 @@ Coordination platform for meetups and appointments by seeing other users’ loca
 <img src="./images/glanceScreenShot2.png" width="200"><img src="./images/glanceScreenShot1.png" width="200">
 <img src="./images/glanceScreenShot3.png" width="200">
 
+## Create meetups and invite your friends.  For a short period of time before the meetup, you will be able to see everyones location and eta.  You can now decide when to leave the house based on when your friends actually get to the location.  You won't ever have to wait for that friend whos always late.
 ![screenshot](./images/glance1.gif?raw=true)
+
+## Click on a meetup to see a map with everyones location.
+![screenshot](./images/glance2.gif?raw=true)
+
+## When you click on their names, it centers the map to their location.  Location updates in real time.
+
+![screenshot](./images/glance3.gif?raw=true)
 
 
 
